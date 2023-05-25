@@ -14,9 +14,8 @@ permalink: /
 
 还没想好主页的样式，你看到这里，说明BIANO的小站搭建成功了。
 
-这是我2017年至今找到的[[看书记录]]
+这是我2017年至今找到的[[Reading History]]
 
-这是看过的书汇总列表[[书库]]
 
 <strong>Recently updated notes</strong>
 
